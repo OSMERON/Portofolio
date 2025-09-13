@@ -64,16 +64,9 @@ const Hero: React.FC = () => {
                         <img src={facebookIcon} alt="Facebook icon" />
                     </a>
                 </span>
-                <p className={styles.description}>Computing Student at Arden University
-
-I hold a degree in Digital Technology from GBS and I am currently pursuing a top-up program in Computing at Arden University.
-I am passionate about building modern web applications and improving my coding skills through hands-on projects.
-
-My technical skills include:
-• Frontend: JavaScript, TypeScript, HTML, CSS, React, Angular, Vue, Tailwind CSS, Bootstrap
-• Backend and tools: Node.js, Redux, Webpack, Git, Jest
-
-This portfolio showcases the projects, games, and applications I have created as part of my continuous learning and growth as a developer.</p>
+                <p className={styles.description}>Computing student at Arden University
+Building modern web apps with JavaScript, TypeScript, React, and Node.js
+Focused on creating clean, user-friendly digital experiences</p>
                 <a href={CV} download>
                     <button className="hover">Resume</button>
                 </a>
