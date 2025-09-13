@@ -1,0 +1,22 @@
+import React from 'react';
+
+interface ProjectCardProps {
+  src: string;
+  link: string;
+  h3: string;
+  p: string;
+}
+
+const ProjectCard: React.FC<ProjectCardProps> = ({ src, link, h3, p }) => {
+  return (
+    <div>
+      <a href={link} target='_blank' rel="noopener noreferrer">
+        <img className='hover' src={src} alt={`${h3} logo`} />
+        <h3>{h3}</h3>
+        <p>{p}</p>
+      </a>
+    </div>
+  );
+}
+
+export default ProjectCard;
