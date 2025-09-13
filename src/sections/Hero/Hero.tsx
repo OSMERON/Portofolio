@@ -64,10 +64,16 @@ const Hero: React.FC = () => {
                         <img src={facebookIcon} alt="Facebook icon" />
                     </a>
                 </span>
-                <p className={styles.description}>Salut, sunt Banu Bogdan
-Sunt absolvent GBS în Digital Technology și student la Universitatea Arden, unde studiez Computing.
-Îmi place să învăț coding și programare în timpul liber.
-Acest portofoliu, împreună cu jocurile și aplicațiile prezentate aici, sunt proiecte create de mine din pasiune pentru tehnologie.</p>
+                <p className={styles.description}>Computing Student at Arden University
+
+I hold a degree in Digital Technology from GBS and I am currently pursuing a top-up program in Computing at Arden University.
+I am passionate about building modern web applications and improving my coding skills through hands-on projects.
+
+My technical skills include:
+• Frontend: JavaScript, TypeScript, HTML, CSS, React, Angular, Vue, Tailwind CSS, Bootstrap
+• Backend and tools: Node.js, Redux, Webpack, Git, Jest
+
+This portfolio showcases the projects, games, and applications I have created as part of my continuous learning and growth as a developer.</p>
                 <a href={CV} download>
                     <button className="hover">Resume</button>
                 </a>
