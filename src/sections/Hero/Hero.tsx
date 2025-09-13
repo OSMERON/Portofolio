@@ -64,9 +64,9 @@ const Hero: React.FC = () => {
                         <img src={facebookIcon} alt="Facebook icon" />
                     </a>
                 </span>
-                <p className={styles.description}> Computing student at Arden University
-Building modern web apps with JavaScript, TypeScript, React, and Node.js
-Focused on creating clean, user-friendly digital experiences </p>
+                <p className={styles.description}> Computing student at Arden University,<br />
+                                                    Building modern web apps with JavaScript, TypeScript, React, and Node.js <br />
+                                                    Focused on creating clean, user-friendly digital experiences </p>
                 <a href={CV} download>
                     <button className="hover">Resume</button>
                 </a>
