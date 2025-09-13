@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/common/projectcard.tsx","./src/common/skillslist.tsx","./src/common/themecontext.tsx","./src/sections/footer/footer.tsx","./src/sections/hero/hero.tsx","./src/sections/hero/skils/skils.tsx","./src/sections/hero/projects/projects.tsx","./src/sections/contact/contact.tsx"],"version":"5.9.2"}

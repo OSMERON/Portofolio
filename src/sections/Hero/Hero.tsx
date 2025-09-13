@@ -64,7 +64,10 @@ const Hero: React.FC = () => {
                         <img src={facebookIcon} alt="Facebook icon" />
                     </a>
                 </span>
-                <p className={styles.description}>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                <p className={styles.description}>Salut, sunt Banu Bogdan
+Sunt absolvent GBS în Digital Technology și student la Universitatea Arden, unde studiez Computing.
+Îmi place să învăț coding și programare în timpul liber.
+Acest portofoliu, împreună cu jocurile și aplicațiile prezentate aici, sunt proiecte create de mine din pasiune pentru tehnologie.</p>
                 <a href={CV} download>
                     <button className="hover">Resume</button>
                 </a>
