@@ -13,7 +13,7 @@ const Projects: React.FC = () => {
       <div className={styles.projectsContainer}>
         <ProjectCard 
           src={Viber} 
-          link='https://github.com/Sde-mir/company-landing-page-2'
+          link='https://osmeron.github.io/Task--list/'
           h3='To Do list '
           p='Task list '/>
           <ProjectCard 
