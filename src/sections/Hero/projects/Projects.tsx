@@ -18,9 +18,9 @@ const Projects: React.FC = () => {
           p='Task list '/>
           <ProjectCard 
           src={Freshburger} 
-          link='https://github.com/Sde-mir/company-landing-page-2'
-          h3='Fresh Burger'
-          p='Hamburger Restaurant'/>
+          link='https://osmeron.github.io/Removals/'
+          h3='Removals'
+          p='Removals Company'/>
           <ProjectCard 
           src={HipsterGlasses} 
           link='https://github.com/Sde-mir/company-landing-page-2'
