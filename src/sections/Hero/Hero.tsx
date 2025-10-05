@@ -13,7 +13,7 @@ import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
 import facebookLight from '../../assets/facebook-light.svg';
 import facebookDark from '../../assets/facebook-dark.svg';
-import CV from '../../assets/CV-2024.pdf';
+import CV from '../../assets/Bogdan_Banu_CV.pdf';
 import { useTheme } from '../../common/Themecontext';
 
 const Hero: React.FC = () => {
@@ -64,7 +64,7 @@ const Hero: React.FC = () => {
                         <img src={facebookIcon} alt="Facebook icon" />
                     </a>
                 </span>
-                <p className={styles.description}> Computing student at Arden University,<br />
+                <p className={styles.description}> Final year computing student at Arden University,<br />
                                                     Building modern web apps with JavaScript, TypeScript, React, and Node.js <br />
                                                     Focused on creating clean, user-friendly digital experiences </p>
                 <a href={CV} download>
