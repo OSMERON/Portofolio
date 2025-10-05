@@ -13,7 +13,7 @@ import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
 import facebookLight from '../../assets/facebook-light.svg';
 import facebookDark from '../../assets/facebook-dark.svg';
-import CV from '../../assets/Bogdan_Banu_CV.pdf';
+import CV from '../../assets/Bogdan CV 2025.pdf';
 import { useTheme } from '../../common/Themecontext';
 
 const Hero: React.FC = () => {
